@@ -9,7 +9,6 @@
 	<packaging>jar</packaging>
 
 	<name>springboot-mybatis-annotation</name>
-	<description>Springboot-mybatis</description>
 
 	<!-- Spring Boot 启动父依赖 -->
 	<parent>
@@ -20,7 +19,7 @@
 
 	<properties>
 		<mybatis-spring-boot>1.2.0</mybatis-spring-boot>
-		<mysql-connector>5.1.39</mysql-connector>
+		<mysql-connector>8.0.33</mysql-connector>
 	</properties>
 
 	<dependencies>
